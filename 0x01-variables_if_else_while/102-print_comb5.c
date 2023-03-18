@@ -9,7 +9,7 @@ int main(void)
 {
 	int c = 0;
 	int f_d;
-	int 1_d;
+	int l_d;
 
 	int c2;
 	int f_d2;
@@ -28,10 +28,10 @@ int main(void)
 			if (c < c2)
 			{
 				putchar(f_d);
-				putchar(1_d);
+				putchar(l_d);
 				putchar(',');
 				putchar(f_d2);
-				putchar(1_d2);
+				putchar(l_d2);
 
 				if (c != 98)
 				{

@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description:Write a program that prints 
+ * Description:Write a program that prints
  * Return: 0
  */
 int main(void)
