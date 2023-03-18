@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description:
+ * Description: Combination of two digit numbers
  * Result:
  */
 int main(void)
@@ -21,7 +21,7 @@ int main(void)
 		l_d = (c % 10 + '0');
 		c2 = 0;
 		while (c2 <= 99)
-		{	
+		{
 			f_d2 = (c2 / 10 + '0');
 			l_d2 = (c2 % 10 + '0');
 
